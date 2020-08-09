@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <h3 align="center">Contact :mailbox:</h3>
-<hr>
+<br/>
 <p align="center">
 <a href="https://www.linkedin.com/in/davidoterof"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidoterof"></img></a>
 <a href="https://www.twitter.com/davidoterof"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/davidoterof"></img></a>
