@@ -1,4 +1,9 @@
-# Hi there 👋
+# Hi there! 👋
+
+
+### Contact :mailbox:
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidoterof)](https://www.linkedin.com/in/davidoterof)  
+[![Twitter](https://img.shields.io/badge/twitter-blue.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/davidoterof)](https://www.twitter.com/davidoterof)
 
 <!--
 **davidoterof/davidoterof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidoterof)](https://www.linkedin.com/in/davidoterof) 
