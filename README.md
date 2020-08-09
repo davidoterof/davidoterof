@@ -1,11 +1,13 @@
 # Hi there! 👋
 
-<h3 align="center">Contact :mailbox:</h3>
+<h3>Contact :mailbox:</h3>
 <br/>
-<p align="center">
-<a href="https://www.linkedin.com/in/davidoterof"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidoterof"></img></a>
-<a href="https://www.twitter.com/davidoterof"><img src="https://img.shields.io/badge/twitter-blue.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/davidoterof"></img></a>
-</p>
+<a href="https://www.twitter.com/davidoterof">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/davidoterof"">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <!--
 **davidoterof/davidoterof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
