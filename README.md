@@ -5,9 +5,12 @@
 <a href="https://www.twitter.com/davidoterof">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/davidoterof"">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/davidoterof">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="mailto:david.otero.freijeiro@udc.es">
+  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>                                                                                                                     
 
 <!--
 **davidoterof/davidoterof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
